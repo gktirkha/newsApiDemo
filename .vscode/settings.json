@@ -1,0 +1,12 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "dart.lineLength": 150,
+    "cSpell.words": [
+        "Chucker",
+        "newsapi",
+        "riverpod"
+    ]
+}

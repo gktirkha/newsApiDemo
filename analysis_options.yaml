@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+linter: 
+  rules:
+    - prefer_relative_imports
+    - prefer_single_quotes
+    - exhaustive_cases
+    - avoid_redundant_argument_values
+    - require_trailing_commas
+    - sort_child_properties_last
+    - sort_constructors_first
